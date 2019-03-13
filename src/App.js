@@ -5,6 +5,7 @@ import './style/App.css';
 function App() {
   return (
     <div className="App">
+      <div className="gradient" />
       <Layout>
         <Greeting />
         <h2 className="topic">Personal Projects</h2>

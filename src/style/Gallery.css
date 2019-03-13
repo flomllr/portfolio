@@ -1,5 +1,17 @@
 .Gallery {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-gap: 30px;
+}
+
+@media (min-width: 550px) {
+  .Gallery {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1000px) {
+  .Gallery {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }
