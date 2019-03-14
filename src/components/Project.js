@@ -1,10 +1,11 @@
 import React from 'react';
+import Tilt from 'react-vanilla-tilt';
 import '../style/Project.css';
 
 function Gallery(props) {
   const { title, subtitle, description, url, linktext, techstack } = props;
   return (
-    <div className="Project">
+    <Tilt className="Project">
       <h3>{subtitle}</h3>
       <h4>{title}</h4>
       <p>{description}</p>
@@ -12,7 +13,7 @@ function Gallery(props) {
       <a href={url} target="_blank" rel="noopener noreferrer">
         {linktext}
       </a>
-    </div>
+    </Tilt>
   );
 }
 export default Gallery;
