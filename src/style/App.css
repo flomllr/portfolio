@@ -17,15 +17,27 @@
 }
 
 .App .gradient {
+  width: 180%;
+  height: 760px;
+  position: absolute;
+  top: -50px;
+  left: -40%;
+  opacity: 0.065;
+  border-radius: 0 0 510px 0;
+  -webkit-transform: rotate(-22deg);
+  transform: rotate(-17deg);
   background-image: url('../assets/gradient.png');
   background-size: cover;
   z-index: -1;
-  width: 150%;
-  height: 1000px;
-  position: absolute;
-  top: -400px;
-  left: -30%;
-  opacity: 0.065;
-  border-radius: 0 0 1000px 0;
-  transform: rotate(-22deg);
+}
+
+@media (min-width: 700px) {
+  .App .gradient {
+    width: 150%;
+    height: 1000px;
+    top: -400px;
+    left: -30%;
+    border-radius: 0 0 1000px 0;
+    transform: rotate(-22deg);
+  }
 }
