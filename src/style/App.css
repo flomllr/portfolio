@@ -8,6 +8,10 @@
   margin: 70px 0 30px 0;
 }
 
+.App .topic span {
+  font-size: 20px;
+}
+
 .strong {
   font-weight: 300;
 }

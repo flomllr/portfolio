@@ -42,7 +42,6 @@ function App() {
             subtitle="Website implementation - 2018"
             description="In a team of three we redesigned and implemented the website for a B2B print company in Cologne, Germany."
             url="http://bube-concept.de"
-            techstack="HTML, CSS, JavaScript, PHP"
             linktext="bube-concept.de"
           />
           <Project
@@ -50,9 +49,20 @@ function App() {
             subtitle="Website implementation - 2018"
             description="I redesigned and implemented the website of the student-run business consultancy Academy Consult e.V."
             url="http://academyconsult.de"
-            techstack="HTML, CSS, JavaScript, PHP"
             linktext="bube-concept.de"
           />
+          <Project
+            title="Applied AI"
+            subtitle="Wesite implementation - 2018"
+            description="Redesign and implementation of corporate website of the appliedAI Initiative in Munich."
+            url="https://appliedai.de"
+            linktext="appliedai.de"
+          />
+        </Gallery>
+        <h2 className="topic">
+          Archive <span>- projects which are not representative anymore</span>
+        </h2>
+        <Gallery>
           <Project
             title="Fancymerch"
             subtitle="Print on Demand online store - 2017 (sold)"
