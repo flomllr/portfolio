@@ -21,7 +21,7 @@ function App() {
           <Project
             title="Dcode"
             subtitle="Shopify App - 2019"
-            description="Shopify app adding a simple, but desired feature to Shopify stores: cart-level discount codes. Currently 150 active shops using Dcode."
+            description="Shopify app adding a simple, but desired feature to Shopify stores: cart-level discount codes"
             techstack="React.js, Node.js"
             url="https://apps.shopify.com/discountcode-in-cart"
             linktext="Shopify App Store"
