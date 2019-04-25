@@ -11,6 +11,14 @@ function App() {
         <h2 className="topic">Personal Projects</h2>
         <Gallery>
           <Project
+            title="Deeplify"
+            subtitle="Y Combinator Hackathon - 2019"
+            description="Deeplify provides a convenient way for researchers to serve their trained deep learning models via an API and a central platform for developers to discover and use them."
+            techstack="React.js, Firebase"
+            url="https://devpost.com/software/deephub"
+            linktext="Devpost"
+          />
+          <Project
             title="Pheel"
             subtitle="Start Hack St. Gallen - 2019"
             description="Our contribution to the Microsoft Challenge 'AI for Good': Providing audio feedback on the expressions and reactions of the people in front of you."
