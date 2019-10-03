@@ -1,0 +1,13 @@
+.box {
+    padding: 0 10px;
+    background-color: #dae3ff;
+    border-radius: 3px;
+    float: left;
+    margin: 3px;
+}
+
+.box p {
+    display: inline;
+    font-size: 12px;
+    line-height: 23px;
+}

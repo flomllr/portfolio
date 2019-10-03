@@ -1,0 +1,61 @@
+.box {
+    background-color: #fff;
+    border-radius: 3px;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 0px 60px -47px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 60px -47px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 60px -47px rgba(0, 0, 0, 0.3);
+}
+
+.image {
+    height: 0;
+    padding-bottom: 45%;
+    background-color: #d0efea;
+    position: relative;
+    background-size: 100% auto;
+    background-position: center center;
+}
+
+.text {
+    padding: 36px;
+}
+
+.spotlight .text {
+    padding: 50px;
+}
+
+.text h3 {
+    font-weight: normal;
+    font-size: 25px;
+    margin: 5px 0 15px 0;
+}
+
+.spotlight .text h3 {
+    font-size: 28px;
+}
+
+.text p {
+    font-size: 14px;
+}
+
+.spotlight .text p {
+    font-size: 15px;
+}
+
+
+.text a {
+    color: inherit;
+    font-size: 13px;
+    display: block;
+    margin: 20px 0;
+}
+
+.tagsBox {
+    display: block;
+}
+
+.tagsBox:after {
+    content: "";
+    clear: both;
+    display: block;
+}
