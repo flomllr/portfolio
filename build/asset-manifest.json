@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05b290c5.chunk.css",
+    "main.js": "/static/js/main.7b6a9f06.chunk.js",
+    "main.js.map": "/static/js/main.7b6a9f06.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.af3e7481.js",
+    "runtime~main.js.map": "/static/js/runtime~main.af3e7481.js.map",
+    "static/js/2.111a09f2.chunk.js": "/static/js/2.111a09f2.chunk.js",
+    "static/js/2.111a09f2.chunk.js.map": "/static/js/2.111a09f2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ce43a5bccfeff83bf85cff7224669794.js": "/precache-manifest.ce43a5bccfeff83bf85cff7224669794.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.05b290c5.chunk.css.map": "/static/css/main.05b290c5.chunk.css.map",
+    "static/media/index.css": "/static/media/DINPro-Regular.4686cf1d.woff",
+    "static/media/clearcall.png": "/static/media/clearcall.e150f824.png",
+    "static/media/dcode.png": "/static/media/dcode.c8ecc72c.png"
+  }
+}
