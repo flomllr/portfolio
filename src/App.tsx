@@ -158,9 +158,9 @@ const App: React.FC = () => {
                     <a className={styles.link} href="https://pioneer.app/winners/florian-muller">
                         Pioneer @ Pioneer.app
                     </a>
-                    . Computer Science @ TUM. Working on a novel approach to train autonomous driving algorithms using
-                    3D point clouds. Building apps in my spare time (from text-based adventure games to SaaS for
-                    e-commerce companies).
+                    . Computer Science @ TUM. Working on a novel approach to train autonomous driving models using 3D
+                    point clouds. Building apps in my spare time (from text-based adventure games to SaaS for e-commerce
+                    companies).
                 </p>
             </div>
             <div className={styles.spotlight}>
