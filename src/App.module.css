@@ -40,6 +40,10 @@ body {
     grid-gap: 20px;
 }
 
+.link {
+    color: rgb(33, 43, 53);
+}
+
 .spotlightProjects {
     grid-template-columns: repeat(3, 1fr);
 }
